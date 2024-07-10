@@ -1,5 +1,5 @@
 from datetime import datetime
-
+#função
 def obter_data_nascimento():
     while True: 
         try:
